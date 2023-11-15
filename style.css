@@ -1,0 +1,17 @@
+.list-Section{
+    background-color: yellow;
+    border-radius: 40px;
+    border: 5px dashed green;
+    margin-top: 20px;
+    width: 350px;
+    margin-left: 250px;
+}
+
+.list-Section > h2 {
+    text-align: center;
+}
+
+
+h2{
+    color: chartreuse;
+}
